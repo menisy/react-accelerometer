@@ -1,5 +1,5 @@
 {
-  "name": "react-accelerometer",
+  "name": "react-accelerometer-forked",
   "version": "1.0.1",
   "main": "dist/react-accelerometer.js",
   "module": "dist/react-accelerometer.module.js",
