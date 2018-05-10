@@ -5,13 +5,13 @@
   "module": "dist/react-accelerometer.module.js",
   "jsnext:main": "dist/react-accelerometer.module.js",
   "description": "Uses the device's Accelerometer as a React Component",
-  "author": "Lucas Motta <mail@lucasmotta.com> (lucasmotta.com)",
+  "author": "Menisy forked from Lucas Motta <mail@lucasmotta.com> (lucasmotta.com)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lucasmotta/react-accelerometer"
+    "url": "https://github.com/menisy/react-accelerometer"
   },
   "bugs": {
-    "url": "https://github.com/lucasmotta/react-accelerometer/issues"
+    "url": "https://github.com/menisy/react-accelerometer/issues"
   },
   "license": "MIT",
   "keywords": [
